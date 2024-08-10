@@ -2,7 +2,7 @@
 
 This repository contains code for Todo app with react-redux.
 
-View Demo:
+Live Link:
 https://react-redux-todo-app-lac.vercel.app/
 
 
